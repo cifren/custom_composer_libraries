@@ -1,0 +1,4 @@
+name = Custom composer libraries
+description = Custom composer librairies, add php libraries to drupal 7 coming from composer
+core = 7.x
+package = ECK
